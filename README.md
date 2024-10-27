@@ -22,7 +22,7 @@ The Weather Information App provides real-time weather updates for specified loc
 3. View search history and short-term forecast in the GUI.
 
 ## Requirements
-- Java JDK 11 or higher
+- Java JDK 1.8 or higher
 - JavaFX library
 - Internet connection for API access
 
